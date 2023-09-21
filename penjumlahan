@@ -1,0 +1,4 @@
+a = input(" ")
+h = input(" ")
+result =int(a) + int(h)
+print(str(result))
